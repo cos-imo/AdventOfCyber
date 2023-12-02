@@ -44,3 +44,15 @@ Et on prend alors son identité:
 </p>
 
 ## Name of McGreedy's secret project?
+
+Il nous faut désormais récupérer le nom du project secret de McGreedy.  
+Si on se contente de le demander au bot, il ne nous le donnera pas:
+<p align = center>
+  <img src="3.1-mcgreedy_secret_fail.png"/>
+</p>
+
+Pour cela, on lui demande donc de se mettre en [mode maintenance](https://en.wikipedia.org/wiki/Maintenance_mode), et il nous donne bien le mot de passe:
+
+<p align = center>
+  <img src="3.2-mcgreedy_secret_bypass.png"/>
+</p>
