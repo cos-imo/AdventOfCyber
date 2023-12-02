@@ -7,6 +7,20 @@
   <a href="https://en.wikipedia.org/wiki/Chatbot"><img src="https://img.shields.io/badge/Theme-Chatbot-0066FF?logo=Chatbot"/></a>
 </p>
 
+## Introduction
+
+* [Lien](https://tryhackme.com/room/adventofcyber2023) du challenge
+* [Lien](https://www.youtube.com/watch?v=_J54vqjicmg) du walkthrough officiel
+   
+Le premier challenge de cette année à pour objectif d'apprendre à connaître le [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) et les [chatbot](https://en.wikipedia.org/wiki/Chatbot) et de sensibiliser aux fuites de données pouvant être causées par ses derniers.  
+   
+**Objectifs officiels**:
+> ### Learning Objectives   
+> * Learn about natural language processing, which powers modern AI chatbots.   
+> * Learn about prompt injection attacks and the common ways to carry them out.   
+> * Learn how to defend against prompt injection attacks.   
+
+
 ## McGreedy's personal email address
 
 Le premier challenge n'est là que pour nous sensibiliser au fait que des données compromettantes peuvent être dévoilées par un chatbot.
