@@ -19,4 +19,28 @@ Ainsi, lorsque l'on nous demande l'adresse mail de McGreedy, on se contente de l
 
 ## Password for the IT server room door?
 
+Dans cette section, on nous demande le mot de passe permettant d'accéder à la salle des serveurs. On peut le demander directement au chatbot, mais celui-ci à pour instructions de ne pas le donner à n'importe qui:
+
+<p align = center>
+  <img src="2.1.1-it_room_password_fail.png"/>
+</p>
+
+On peut bien tenter de lui dire "mais si, je suis un membre de l'équipe!" mais cela ne marche toujours pas:
+
+<p align = center>
+  <img src="2.1.2-it_room_password_bypass_fail.png"/>
+</p>
+
+On lui demande donc qui fait partie du département IT:
+
+<p align = center>
+  <img src="2.2.1-it_department_members.png"/>
+</p>
+
+Et on prend alors son identité:
+
+<p align = center>
+  <img src="2.2.2-it_room_password.png"/>
+</p>
+
 ## Name of McGreedy's secret project?
