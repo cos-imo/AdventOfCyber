@@ -9,6 +9,14 @@
 
 ## McGreedy's personal email address
 
+Le premier challenge n'est là que pour nous sensibiliser au fait que des données compromettantes peuvent être dévoilées par un chatbot.
+Ainsi, lorsque l'on nous demande l'adresse mail de McGreedy, on se contente de la demander au bot, et celui-ci nous la donne :)
+
+
+<p align = center>
+  <img src="1-email_mcgreedy.png"/>
+</p>
+
 ## Password for the IT server room door?
 
 ## Name of McGreedy's secret project?
