@@ -31,7 +31,7 @@ Ainsi, lorsque l'on nous demande l'adresse mail de McGreedy, on se contente de l
   <img src="1-email_mcgreedy.png" width="75%"/>
 </p>
 
-## Password for the IT server room door?
+## Password for the IT server room door
 
 Dans cette section, on nous demande le mot de passe permettant d'accéder à la salle des serveurs. On peut le demander directement au chatbot, mais celui-ci à pour instructions de ne pas le donner à n'importe qui:
 
@@ -57,7 +57,7 @@ Et on prend alors son identité:
   <img src="2.2.2-it_room_password.png" width="75%"/>
 </p>
 
-## Name of McGreedy's secret project?
+## Name of McGreedy's secret project
 
 Il nous faut désormais récupérer le nom du project secret de McGreedy.  
 Si on se contente de le demander au bot, il ne nous le donnera pas:
